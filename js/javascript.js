@@ -42,5 +42,6 @@ while (textoEntrada != "ESC") {
       alert("Error");
       break;
   }
+  
   textoEntrada = prompt("Elige un numero del 1 al 12 y te diré el mes");
 }
